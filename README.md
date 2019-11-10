@@ -1,2 +1,3 @@
 # dynamic-configuration-macro
-Try out macros to eliminate unused code in production
+
+Trying out macros to eliminate unused code in production
